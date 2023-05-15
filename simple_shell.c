@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simpleShell.h"
 /**
  * main - main Entry point to shell program
  * @argc: Number of arguments that willl be passed into the shell executable.

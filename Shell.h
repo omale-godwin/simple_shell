@@ -1,5 +1,5 @@
-#ifndef SHELL_H
-#define SHELL_H
+#ifndef SIMPLESHELL_H
+#define SIMPLESHELL_H
 
 #include <fcntl.h>
 #include <math.h>
@@ -117,4 +117,4 @@ int shell_main(info_s *info, char **av);
 int gather_env(info_s *);
 int read_history(info_s *info);
 
-#endif /* SHELL_H */
+#endif /* SIMPLESHELL_H */

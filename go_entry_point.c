@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simpleShell.h"
 
 /**
  * shell_main - main control for the shell program

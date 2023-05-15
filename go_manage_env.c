@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simpleShell.h"
 
 /**
  * _getenv - gets the value of an environ variable

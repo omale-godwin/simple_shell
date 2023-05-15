@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "simpleShell.h"
 
 /**
  * read_hist - gets the history file
