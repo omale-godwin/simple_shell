@@ -1,7 +1,6 @@
 #ifndef SIMPLE_SHELL_H
 #define SIMPLE_SHELL_H
 
-#include "simple_shell.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
