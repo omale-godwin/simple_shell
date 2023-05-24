@@ -1,4 +1,4 @@
-#include "simpleShell.h"
+#include "simple_shell.h"
 
 /**
  * main - Main Entry to Simple Shell project code.
