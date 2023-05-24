@@ -1,4 +1,4 @@
-#include "simpleShell.h"
+#include "simple_shell.h"
 #include <stdio.h>
 
 int main(void)
