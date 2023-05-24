@@ -13,7 +13,6 @@
 #include <dirent.h>
 #include <signal.h>
 
-
 extern char **environ;
 void _putttind(char *strg);
 void prompttin(void);
