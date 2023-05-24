@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef SIMPLE_SHELL_H
+#define SIMPLE_SHELL_H
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -44,4 +44,4 @@ int _settingenv(char *variable_name, char *variable_value);
 int _unsettingenv(char *variable_name);
 char *_stringdup(char *str);
 
-#endif /* MAIN_H */
+#endif /* SIMPLE_SHELL_H */
