@@ -1,13 +1,30 @@
 #include "shell.h"
 #include <stdio.h>
 
+/**
+ * numbers_addition - Function that adds two numbers
+ * @y: Number one
+ * @z: Number two
+ * Return: The total numbers
+ */
+int numbers_addition(int y, int z)
+{
+	return (y + z);
+}
+
+/**
+ * main - Programm entry point
+ * Return: 0 always
+ */
 int main(void)
 {
-	int mode1 = 100;
-	int mode2 = 50;
-	int result = mode1 * mode2;
+	int fig1 = 5;
+	int fig2 = 10;
+	int total;
 
-	printf("The cal sum of %d and %d is %d\n", mode1, mode2, result);
+	total = numbers_addition(fig1, fig2);
+
+	printf("The total is: %d\n", total);
 
 	return (0);
 }
